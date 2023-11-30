@@ -27,6 +27,6 @@ Let's build up some hypothetical scenarios...
 
 This is because unlike current AI systems, brain gets sensory inputs constantly and every system(Language, Vision, Hearing, Touch) are connected or bridged to each other. 
 
-The aim of the project RS1 is to emulate the these functions to build a basic model of the human consciousness.
+The aim of the project RS1 is to emulate these functions to build a basic model of the human consciousness.
 
 > How to ?
