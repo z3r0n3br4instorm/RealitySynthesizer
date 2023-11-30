@@ -19,7 +19,7 @@ I'd like to add a little addition to this statement.
 
 Let's build up some hypothetical scenarios...
 
-- Suppose you walking down alone in the street and saw this beautiful view of the sunset and decided to take a picture of that.  **Who told you  to do that ?** No one, its a idea **that was popped out to your head, because you *saw* it**. If you did not see the sunset, you will not take a picture of that.
+- Suppose you walking down alone in the street and saw this beautiful view of the sunset and decided to take a picture of that.  **Who told you  to do that ?** No one, its an idea **that was popped out to your head, because you *saw* it**. If you did not see the sunset, you will not take a picture of that.
 
 - Almost everyone have touched something hot and burned some part of their body in there life at least once. Because of this **experience** and the sensory input **Pain**, you would refrain from touching hot stuff.
 
