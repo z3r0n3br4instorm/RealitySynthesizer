@@ -19,7 +19,7 @@ I'd like to add a little addition to this statement.
 
 Let's build up some hypothetical scenarios in order to understand the link between sensory inputs and the conscious decisions...
 
-- Suppose you walking down alone in the street and saw this beautiful view of the sunset and decided to take a picture of that.  **Who told you  to do that ?** No one, its an idea **that was popped out to your head because you *saw* it**. If you did not see the sunset, you will not take a picture of that.
+- Suppose you walking down alone in the street and saw this beautiful view of the sunset and decided to take a picture of that.  **Who told you  to do that ?** No one, its an idea **that was popped in to your head because you *saw* it**. If you did not see the sunset, you will not take a picture of that.
 
 - Almost everyone has touched something hot and burned some part of their body in their life at least once. Because of this **experience** that is derived from the sensory input **Pain**, you would refrain from touching hot stuff.
 
