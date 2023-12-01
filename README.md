@@ -17,7 +17,7 @@ The Philosophical theory *Empiricism* States that
 I'd like to add a little addition to this statement.
 "Human Knowledge, Ideas and Why/What questions are a result of sensory inputs".
 
-Let's build up some hypothetical scenarios...
+Let's build up some hypothetical scenarios in order to understand the link between sensory inputs and the conscious decisions...
 
 - Suppose you walking down alone in the street and saw this beautiful view of the sunset and decided to take a picture of that.  **Who told you  to do that ?** No one, its an idea **that was popped out to your head because you *saw* it**. If you did not see the sunset, you will not take a picture of that.
 
